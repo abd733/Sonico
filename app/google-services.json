@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "355045466990",
+    "firebase_url": "https://sonico-39653-default-rtdb.firebaseio.com",
+    "project_id": "sonico-39653",
+    "storage_bucket": "sonico-39653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355045466990:android:b4a4b31acfab569b39177f",
+        "android_client_info": {
+          "package_name": "com.example.sonicochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355045466990-b3541ub31gca7n8m3a0h1jcu6ap45ces.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpsM8OX0FRVYO9qcUvCOAFf6NWotY06G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355045466990-b3541ub31gca7n8m3a0h1jcu6ap45ces.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sonico</string>
+    <string name="from">From</string>
+    <string name="sonico">SONICO</string>
+    <string name="todo">TODO</string>
+    <string name="default_web_client_id">355045466990-b3541ub31gca7n8m3a0h1jcu6ap45ces.apps.googleusercontent.com</string>
+    <string name="fb_login_protocol_scheme">fb1234567890</string>
+    <string name="facebook_app_id"></string>
+    <string name="client_id">355045466990-b3541ub31gca7n8m3a0h1jcu6ap45ces.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

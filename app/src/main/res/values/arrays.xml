@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="planets_array">
+        <item>Choisissez le type de téléphone</item>
+        <item>Samsung</item>
+        <item>Xiaomi (Redmi)</item>
+        <item>Infinix</item>
+        <item>Huawei</item>
+        <item>OnePlus</item>
+        <item>Google</item>
+        <item>Motorola</item>
+        <item>Sony</item>
+        <item>Realme</item>
+        <item>Oppo</item>
+    </string-array>
+    <string-array name="iphone_names">
+        <item>Choisissez le type de téléphone</item>
+        <item>iPhone 13</item>
+        <item>iPhone 13 mini</item>
+        <item>iPhone 13 Pro</item>
+        <item>iPhone 13 Pro Max</item>
+        <item>iPhone SE (2e génération)</item>
+        <item>iPhone 12 mini</item>
+        <item>iPhone 12</item>
+        <item>iPhone 12 Pro</item>
+        <item>iPhone 12 Pro Max</item>
+        <item>iPhone 11</item>
+        <item>iPhone 11 Pro</item>
+        <item>iPhone 11 Pro Max</item>
+        <item>iPhone XR</item>
+        <item>iPhone XS</item>
+        <item>iPhone XS Max</item>
+    </string-array>
+</resources>
